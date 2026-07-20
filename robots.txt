@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://EthansoEthan.github.io/snippets-zb7g3h/sitemap.xml
